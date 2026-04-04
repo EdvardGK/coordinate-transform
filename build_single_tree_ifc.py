@@ -42,7 +42,7 @@ MAX_DROOP_RATE = 0.12          # max droop per growth step
 BRANCH_PROB = 0.70            # probability of lateral bud activating per year
 LEADER_BRANCH_PROB = 0.90     # leader almost always branches
 MAX_ACTIVE_TIPS = 3000        # performance cap
-BUD_DEATH_SHADE = 0.03        # light below this = bud dies (very tolerant)
+BUD_DEATH_SHADE = 0.10        # light below this = bud dies (shade intolerant birch)
 
 # Da Vinci's rule — radius accumulation
 RING_THICKNESS = 0.005        # meters per growth ring (thicker rings)
@@ -116,6 +116,7 @@ class TreeNode:
     depth: int                   # generations from trunk (0=trunk)
     direction: np.ndarray        # growth direction when this node was created
     n_downstream: int = 1        # number of tips below this node (for Da Vinci)
+    vigor: float = 1.0           # growth rate multiplier — early/low branches get more
 
 
 class GrowingTree:
@@ -135,7 +136,7 @@ class GrowingTree:
 
     def _rebuild_shade_grid(self):
         """Build a 3D voxel grid for O(1) shade lookups."""
-        self._voxel_size = 0.8  # meters per voxel
+        self._voxel_size = 1.2  # meters per voxel — coarser = less self-shading artifacts
         self._shade_voxels = set()
         for node in self.nodes:
             if node.birth_year <= 0:
@@ -307,10 +308,9 @@ class GrowingTree:
                 # Apply gravity droop
                 grow_dir = self.apply_gravity(grow_dir, tip_node.pos)
 
-            # Shoot length depends on light AND available soil nutrition
-            shoot_len = SHOOT_LENGTH_BASE * light * max(0.2, soil)
+            # Shoot length depends on light, soil, AND branch vigor
+            shoot_len = SHOOT_LENGTH_BASE * light * max(0.2, soil) * tip_node.vigor
             if tip_node.is_leader:
-                # Apical dominance weakens with age — crown fills out
                 boost = TRUNK_SHOOT_BOOST_YOUNG + (TRUNK_SHOOT_BOOST_OLD - TRUNK_SHOOT_BOOST_YOUNG) * min(1, year / 25)
                 shoot_len *= boost
             shoot_len = max(shoot_len, SHOOT_LENGTH_MIN * soil)
@@ -328,11 +328,12 @@ class GrowingTree:
                 is_leader=tip_node.is_leader,
                 depth=tip_node.depth,
                 direction=grow_dir,
+                vigor=tip_node.vigor,  # inherit parent vigor
             )
             new_nodes.append(new_node)
 
-            # Lateral branching? Probability scales with light AND nutrition
-            if self.rng.random() < BRANCH_PROB * light * max(0.1, soil):
+            # Lateral branching? Not for the leader — leader branches via its own block below
+            if not tip_node.is_leader and self.rng.random() < BRANCH_PROB * light * max(0.1, soil):
                 # Direction: outward from trunk + random + slightly up
                 trunk_xy = np.array([tip_node.pos[0], tip_node.pos[1], 0.0])
                 if np.linalg.norm(trunk_xy) > 0.05:
@@ -350,58 +351,66 @@ class GrowingTree:
                     is_leader=False,
                     depth=tip_node.depth + 1,
                     direction=lat_dir,
+                    vigor=tip_node.vigor * 0.85,  # laterals slightly less vigorous
                 )
                 new_nodes.append(lat_node)
 
-            # Leader also spawns lateral branches
+            # Leader spawns lateral branches — starts early, these become the main limbs
             if tip_node.is_leader and year > 2 and self.rng.random() < LEADER_BRANCH_PROB:
-                perp = self.rng.randn(3)
-                perp -= np.dot(perp, grow_dir) * grow_dir
-                n = np.linalg.norm(perp)
-                if n > 0.01:
-                    lat_dir = normalize(perp)
-                    lat_dir = normalize(lat_dir + np.array([0, 0, 0.15]))
-                    lat_len = shoot_len * 0.5
+                # Direction: strongly horizontal — these spread the crown wide
+                lat_dir = normalize(np.array([
+                    self.rng.randn(),
+                    self.rng.randn(),
+                    0.1 + self.rng.uniform(0, 0.2)
+                ]))
+                # Early branches grow long and vigorous — they become the main limbs
+                # Later branches are shorter (upper crown, less room)
+                age_vigor = max(0.7, 1.5 - year / 40.0)  # 1.5 at year 2, 0.75 at year 30
+                lat_len = shoot_len * 0.6 * age_vigor
 
-                    lat_node = TreeNode(
-                        pos=tip_node.pos + lat_dir * lat_len,
-                        parent_idx=tip_idx,
-                        birth_year=year,
-                        is_tip=True,
-                        is_leader=False,
-                        depth=1,
-                        direction=lat_dir,
-                    )
-                    new_nodes.append(lat_node)
+                lat_node = TreeNode(
+                    pos=tip_node.pos + lat_dir * lat_len,
+                    parent_idx=tip_idx,
+                    birth_year=year,
+                    is_tip=True,
+                    is_leader=False,
+                    depth=1,
+                    direction=lat_dir,
+                    vigor=age_vigor,  # early branches are the most vigorous
+                )
+                new_nodes.append(lat_node)
 
-        # Dormant bud activation: the trunk/leader can sprout new branches
-        # from any point along its length in the crown zone, not just the tip.
-        # This fills the crown from bottom to top over the years.
+        # Dormant bud activation: trunk sprouts new branches gradually.
+        # Cap at a few per year to prevent exponential bursts.
         if year > 3:
             trunk_nodes = [(i, n) for i, n in enumerate(self.nodes)
-                           if n.is_leader and not n.is_tip and n.pos[2] > 2.0]
+                           if n.is_leader and not n.is_tip and n.pos[2] > 1.5]
+            self.rng.shuffle(trunk_nodes)
+            buds_this_year = 0
+            max_buds_per_year = 4
             for idx, node in trunk_nodes:
-                # Dormant buds along the trunk activate based on age and light.
-                # Younger nodes (higher up) sprout more readily, but older nodes
-                # also get a chance — this fills the lower crown over time.
+                if buds_this_year >= max_buds_per_year:
+                    break
                 age = year - node.birth_year
-                # Fresh nodes sprout eagerly, old nodes occasionally
-                age_factor = max(0.3, 1.0 - age / 40.0)
-                sprout_prob = 0.18 * age_factor * soil
+                age_factor = max(0.2, 1.0 - age / 50.0)
+                sprout_prob = 0.10 * age_factor * soil
                 if self.rng.random() < sprout_prob:
-                    # Check light at this position
                     node_light = self.light_at(node.pos, sun_dirs)
-                    if node_light < 0.2:
+                    if node_light < 0.15:
                         continue
-                    # Push outward from trunk axis — open-grown tree
+                    # Push outward from trunk axis
                     outward = normalize(np.array([
                         node.pos[0] + self.rng.randn() * 0.3,
                         node.pos[1] + self.rng.randn() * 0.3,
                         0]))
                     if np.linalg.norm(outward) < 0.01:
                         outward = normalize(np.array([self.rng.randn(), self.rng.randn(), 0]))
-                    lat_dir = normalize(outward * 0.6 + np.array([0, 0, 0.3]) + self.rng.randn(3) * 0.1)
+                    lat_dir = normalize(outward * 0.6 + np.array([0, 0, 0.25]) + self.rng.randn(3) * 0.1)
                     lat_len = SHOOT_LENGTH_BASE * 0.7 * node_light * soil
+
+                    # Lower branches are more vigorous — they become the thick structural limbs
+                    height_frac = min(1.0, node.pos[2] / 20.0)
+                    branch_vigor = 1.5 - height_frac * 0.7  # 1.5 at base, 0.8 at top
 
                     lat_node = TreeNode(
                         pos=node.pos + lat_dir * lat_len,
@@ -411,8 +420,10 @@ class GrowingTree:
                         is_leader=False,
                         depth=1,
                         direction=lat_dir,
+                        vigor=branch_vigor,
                     )
                     new_nodes.append(lat_node)
+                    buds_this_year += 1
 
         # Add all new nodes
         for node in new_nodes:
@@ -438,18 +449,25 @@ class GrowingTree:
 
     def compute_radius(self, node):
         """
-        Radius from downstream tip count + age accumulation.
-        Pure Da Vinci (sqrt) makes branches too thin.
-        Power of 0.4 keeps proportions realistic.
-        Leader nodes get a minimum radius — the trunk is always visible.
+        Radius from downstream tip count.
+        The trunk is always the thickest thing — enforced by a minimum
+        that scales with the total tree size, not just local downstream count.
         """
         r = RING_THICKNESS * max(node.n_downstream, 1) ** 0.4
-        # Leader nodes: minimum trunk radius that grows with age
+
         if node.is_leader or node.parent_idx < 0:
-            # Trunk sections accumulate girth over years
-            # Use n_downstream as proxy for maturity
-            min_r = 0.015 + 0.004 * max(node.n_downstream, 1) ** 0.3
-            r = max(r, min_r)
+            # Trunk radius: proportional to total tree size
+            total_tips = sum(1 for n in self.nodes if n.is_tip)
+            # A 60-year birch with 1000+ tips should have ~15cm radius trunk
+            trunk_base_r = RING_THICKNESS * max(total_tips, 1) ** 0.4
+            # Taper along the trunk: thick at base, thinner higher up
+            # Use this node's height as fraction of tree height
+            max_z = max((n.pos[2] for n in self.nodes), default=1)
+            height_frac = min(1.0, node.pos[2] / max(max_z, 1))
+            # Power-curve taper: stays thick for most of height
+            taper = 1.0 - height_frac ** 2.5 * 0.75
+            trunk_r = trunk_base_r * taper
+            r = max(r, trunk_r)
         return r
 
 
