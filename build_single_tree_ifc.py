@@ -706,10 +706,18 @@ def build_tree_ifc(out_path):
 
 def main():
     import os
+    import subprocess
     from datetime import datetime
     out_dir = os.path.dirname(os.path.abspath(__file__))
     stamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    out_path = os.path.join(out_dir, f"demo_birch_tree_{stamp}.ifc")
+    try:
+        git_hash = subprocess.check_output(
+            ["git", "rev-parse", "--short", "HEAD"],
+            cwd=out_dir, stderr=subprocess.DEVNULL
+        ).decode().strip()
+    except Exception:
+        git_hash = "nogit"
+    out_path = os.path.join(out_dir, f"demo_birch_tree_{stamp}_{git_hash}.ifc")
 
     n_trunk, n_main, n_delivery, n_leaf, n_leaves, n_nodes = build_tree_ifc(out_path)
     n_total = n_trunk + n_main + n_delivery + n_leaf
