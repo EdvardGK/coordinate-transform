@@ -8,9 +8,9 @@ import matplotlib.pyplot as plt
 from matplotlib.collections import LineCollection
 
 BASE = 'C:/Users/edkjo/DC/ACCDocs/Skiplum AS/Skiplum Backup/Project Files/10016 - Kistefos'
-DXF_CONVERTED = 'c:/Users/edkjo/repos/coordinate-transform/tmp_dxf_all'
+DXF_CONVERTED = 'c:/.workspace/.toolkit/coordinate-transform/tmp_dxf_all'
 
-with open('c:/Users/edkjo/repos/coordinate-transform/acc_analysis.json', 'r', encoding='utf-8') as f:
+with open('c:/.workspace/.toolkit/coordinate-transform/acc_analysis.json', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 results = data['results']
@@ -294,7 +294,7 @@ document.addEventListener('keydown', e => {{ if (e.key === 'Escape') closePopup(
 </body>
 </html>'''
 
-outpath = 'c:/Users/edkjo/repos/coordinate-transform/acc_overview.html'
+outpath = 'c:/.workspace/.toolkit/coordinate-transform/acc_overview.html'
 with open(outpath, 'w', encoding='utf-8') as f:
     f.write(html_out)
 print(f'Saved: {outpath} ({len(results)} files)')
