@@ -1,0 +1,452 @@
+[
+ {
+  "properties": {
+   "Layer name": "GangSykkelvegSenterlinje",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/GangSykkelvegSenterlinje__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Fortauskant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/Fortauskant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Gangvegkant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/Gangvegkant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "GangSykkelveg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/GangSykkelveg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- besøkssenter",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 528,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/00-_besøkssenter__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 80,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/0__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- nye stier",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 8,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/00-_nye_stier__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00 Stier",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/00_Stier__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "f-64000_fortau_FLATE_GANGSYKKELVEG",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/f-64000_fortau_FLATE_GANGSYKKELVEG__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "f-64000_fortau_FLATE_GANGSYKKELVEG",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659816a8709f026367812f1\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_New/f-64000_fortau_FLATE_GANGSYKKELVEG__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "ArealressursGrense",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 86,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/ArealressursGrense__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "ArealressursFlate",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 80,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/ArealressursFlate__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Hekk",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 26,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/Hekk__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Lekeplass",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/Lekeplass__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "777 Skjøtsel",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/777_Skjøtsel__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "771- Plen_ gress_ eng",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/771-_Plen__gress__eng__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- ny jord",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/00-_ny_jord__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00-forflytning jord",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598196a1fff4863c3dbe5a\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Vegetation/00-forflytning_jord__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "762- Forplass grafikk",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981adba89e1b3e9a1cbaa\"]",
+   "Entities": 427,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Plazas/762-_Forplass_grafikk__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "790- Utstyr_ møbler_ lekeapparater",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981adba89e1b3e9a1cbaa\"]",
+   "Entities": 138,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "762- Plasser",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981adba89e1b3e9a1cbaa\"]",
+   "Entities": 55,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Plazas/762-_Plasser__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "790- Utstyr_ møbler_ lekeapparater",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981adba89e1b3e9a1cbaa\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "790- Utstyr_ møbler_ lekeapparater",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981adba89e1b3e9a1cbaa\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ef9aafe30b8e24f1b9\"]",
+   "Entities": 3097,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Parking_New/0__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "_p-plass_boks",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ef9aafe30b8e24f1b9\"]",
+   "Entities": 3068,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Parking_New/_p-plass_boks__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "_p-plass_dim",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ef9aafe30b8e24f1b9\"]",
+   "Entities": 142,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Parking_New/_p-plass_dim__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- fase 1 parkering",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ef9aafe30b8e24f1b9\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Parking_New/00-_fase_1_parkering__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnetVegarealAvgrensning",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 128,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/AnnetVegarealAvgrensning__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegdekkekant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 102,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegdekkekant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantAvkjørsel",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 35,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantAvkjørsel__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 25,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Veg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantFiktiv",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 24,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantFiktiv__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VeggrøftÅpen",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 18,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VeggrøftÅpen__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegrekkverk",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 16,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegrekkverk__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantAnnetVegareal",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 15,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantAnnetVegareal__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegdekkekant",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 15,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegdekkekant__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantFiktiv",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 7,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantFiktiv__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegrekkverk",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 7,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegrekkverk__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Kjørebane",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 6,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Kjørebane__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantAnnetVegareal",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantAnnetVegareal__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veg",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Veg__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegskulderkant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegskulderkant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Kjørebanekant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Kjørebanekant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Spormidt",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Spormidt__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Kjřrebane",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Kjřrebane__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegbom",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegbom__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VeggrøftÅpen",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VeggrøftÅpen__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegrekkverk",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegrekkverk__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Vegbom",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/Vegbom__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "VegkantAvkjørsel",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e2659817ba1cbe585b2c7d1d8\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_Existing/VegkantAvkjørsel__KNM_Stier.png"
+  }
+ }
+]

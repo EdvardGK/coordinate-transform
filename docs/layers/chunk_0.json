@@ -1,0 +1,602 @@
+[
+ {
+  "properties": {
+   "Layer name": "00- ARK 12 PLAN 1 (250408)",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 4604,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_ARK_12_PLAN_1_(250408)__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Takkant",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 224,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Takkant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Mønelinje",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 108,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Mønelinje__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "721- Støttemurer og andre murer",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 99,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/721-_Støttemurer_og_andre_murer__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygningslinje",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 77,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygningslinje__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygning",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 55,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygning__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "72-- Utendørs konstruksjoner",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 50,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/72--_Utendørs_konstruksjoner__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "MurLoddrett",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 41,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/MurLoddrett__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veranda",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 36,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Veranda__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnenBygning",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 35,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/AnnenBygning__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Taksprang",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 33,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Taksprang__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TaksprangBunn",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 30,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TaksprangBunn__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FrittståendeTrappKant",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 12,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FrittståendeTrappKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FrittståendeTrapp",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 11,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FrittståendeTrapp__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygningsdelelinje",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygningsdelelinje__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Låvebru",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 6,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Låvebru__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TakoverbyggKant",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 6,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TakoverbyggKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TrappBygg",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 5,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TrappBygg__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Takoverbygg",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 5,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Takoverbygg__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bruavgrensning",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 4,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bruavgrensning__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bru",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 4,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bru__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FundamentKant",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FundamentKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Fundament",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Fundament__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veranda",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Veranda__KNM_Stier.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Stein og fjell",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Stein_og_fjell__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Pipekant",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Pipekant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BautaStatueGrense",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/BautaStatueGrense__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "SkråForstøtningsmurAvgrensning",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/SkråForstøtningsmurAvgrensning__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BautaStatue",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/BautaStatue__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Pipe",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Pipe__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "SkråForstøtningsmur",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/SkråForstøtningsmur__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Discipline": "ARK",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__KNM_Stier.png",
+   "Description": "Part of KNM_ARK_Buildings"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FKB_Individual_Trees",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 6170,
+   "Type": "Source Layer",
+   "Source File": "Nairy_FKB",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/FKB_Individual_Trees__Nairy_FKB.png",
+   "Description": "Part of KNM_LARK_Trees_Existing"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "772- Eks tre",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 1718,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/772-_Eks_tre__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_LARK_Trees_Existing"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "772- Eks tre",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 932,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/772-_Eks_tre__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_LARK_Trees_Existing"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 722,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk FURU",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 280,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_FURU__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk BJØRK",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 240,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_BJØRK__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær so 12-14",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 200,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_so_12-14__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre medium",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 180,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre_medium__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre stort",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 176,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre_stort__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk OR",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 160,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_OR__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk HEGG",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 140,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_HEGG__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk ROGN",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 60,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_ROGN__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær transplantert",
+   "Discipline": "LARK",
+   "New/Existing": "New",
+   "Entities": 5,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_transplantert__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Trees_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnetGjerde",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 138,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/AnnetGjerde__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_LARK_Paths_Existing"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnetGjerde",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 26,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/AnnetGjerde__KNM_Stier.png",
+   "Description": "Part of KNM_LARK_Paths_Existing"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "GangSykkelvegkant",
+   "Discipline": "LARK",
+   "New/Existing": "Existing",
+   "Entities": 13,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/GangSykkelvegkant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_LARK_Paths_Existing"
+  }
+ }
+]

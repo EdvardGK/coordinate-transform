@@ -1,0 +1,1022 @@
+[
+ {
+  "properties": {
+   "Layer name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+   "Discipline": "RIVeg",
+   "New/Existing": "New",
+   "Entities": 131,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_RIVeg_Roads_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "f-veg_21000_FLATE_KJØREFELT_ASFALT",
+   "Discipline": "RIVeg",
+   "New/Existing": "New",
+   "Entities": 19,
+   "Type": "Source Layer",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_New/f-veg_21000_FLATE_KJØREFELT_ASFALT__Parkering_kistefos_LARK_1.png",
+   "Description": "Part of KNM_RIVeg_Roads_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "f-veg_21000_FLATE_KJØREFELT_ASFALT",
+   "Discipline": "RIVeg",
+   "New/Existing": "New",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_New/f-veg_21000_FLATE_KJØREFELT_ASFALT__KNM_Stier.png",
+   "Description": "Part of KNM_RIVeg_Roads_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+   "Discipline": "RIVeg",
+   "New/Existing": "New",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVeg_Roads_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+   "Discipline": "RIVeg",
+   "New/Existing": "New",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___KNM_Stier.png",
+   "Description": "Part of KNM_RIVeg_Roads_New"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Diverse",
+   "Discipline": "RIVeg",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "230831_Veg_TIN",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVeg_Earthworks/Diverse__230831_Veg_TIN.png",
+   "Description": "Part of KNM_RIVeg_Earthworks"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "733- Utendørs brannsslokking",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 4,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/733-_Utendørs_brannsslokking__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Rørgate",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/Rørgate__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "731- Utendørs VA",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/731-_Utendørs_VA__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KaiBryggeKant",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/KaiBryggeKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Stikkrenne",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/Stikkrenne__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "SvømmebassengKant",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/SvømmebassengKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Svømmebasseng",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/Svømmebasseng__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KaiBrygge",
+   "Discipline": "RIVA",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_RIVA_Water/KaiBrygge__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_RIVA_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Innmålt elektro",
+   "Discipline": "Survey",
+   "New/Existing": "N/A",
+   "Entities": 125,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Survey_Electric/Innmålt_elektro__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Survey_Electric"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Masteomriss",
+   "Discipline": "Survey",
+   "New/Existing": "N/A",
+   "Entities": 12,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Survey_Electric/Masteomriss__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Survey_Electric"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Innmålt elektro",
+   "Discipline": "Survey",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Survey_Electric/Innmålt_elektro__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Survey_Electric"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Innmålt kunstinstallasjoner",
+   "Discipline": "Survey",
+   "New/Existing": "N/A",
+   "Entities": 23,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Survey_Art/Innmålt_kunstinstallasjoner__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Survey_Art"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Diverse",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 8748,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/Diverse__Kotelinjer_MedPåskrift_2D.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "710- Eks koter",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 8102,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/710-_Eks_koter__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Diverse",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 1721,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_20cm",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/Diverse__Kotelinjer_20cm.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "900- RiVei koter 10cm",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 121,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/900-_RiVei_koter_10cm__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "900- RiVei koter 20cm",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 64,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/900-_RiVei_koter_20cm__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "702- møte eks ny kote",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 62,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/702-_møte_eks_ny_kote__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "712- Ny kote 20cm",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 55,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/712-_Ny_kote_20cm__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "712- Ny kote 10cm",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 37,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/712-_Ny_kote_10cm__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Forsenkningskurve",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 34,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/Forsenkningskurve__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "717- Fallpil",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 32,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/717-_Fallpil__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Forsenkningskurve_5m",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/Forsenkningskurve_5m__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "716- Ny punkthøyde",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Contours/716-_Ny_punkthøyde__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Contours"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "ElvBekkKant",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 50,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/ElvBekkKant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "ElvBekk",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 26,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/ElvBekk__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Flomløpkant",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 10,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Flomløpkant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Damkant",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 10,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Damkant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Fisketrapp",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Fisketrapp__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KanalGrøft",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 6,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/KanalGrøft__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "ElvelinjeFiktiv",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 5,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/ElvelinjeFiktiv__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Kanal",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Kanal__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Dam",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Dam__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "InnsjøElvSperre",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/InnsjøElvSperre__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Innsjøkant",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Innsjøkant__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Innsjø",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Water/Innsjø__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Water"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneEnkeltminneFlate",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 46,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneEnkeltminneFlate__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneEnkeltminneGrense",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 40,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneEnkeltminneGrense__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneLokalitetGr",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 19,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneLokalitetGr__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneLokalitet",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 17,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneLokalitet__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneSikringssone",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 4,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneSikringssone__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "KulturminneSikringssoneGr",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Heritage/KulturminneSikringssoneGr__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Heritage"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "PblTiltak",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 61,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/PblTiltak__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "PLANKART januar",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 8,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/PLANKART_januar__KNM_Stier.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Arealbrukgrense",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/Arealbrukgrense__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Anleggsområde",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/Anleggsområde__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TiltakGrense",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/TiltakGrense__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TiltakGrense",
+   "Discipline": "Muni",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/TiltakGrense__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_Muni_Borders"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00_TRACET",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 55,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/00_TRACET__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BeskrivendeHjelpelinjeAnlegg",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 16,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/BeskrivendeHjelpelinjeAnlegg__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "827- Snittlinjer",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 4,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/827-_Snittlinjer__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "230831_Veg_TIN",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__230831_Veg_TIN.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "230831_Veg_TIN",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__230831_Veg_TIN.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "230831_Veg_TIN",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__230831_Veg_TIN.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__KNM_Stier.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__KNM_Stier.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "KNM_Stier",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__KNM_Stier.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_20cm",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_20cm.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_20cm",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_20cm.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_20cm",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_20cm.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_MedPåskrift_2D.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_MedPåskrift_2D.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_MedPåskrift_2D.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Sporing ytterkant",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/Sporing_ytterkant__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Parkering_kistefos_LARK_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Parkering_kistefos_LARK_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 3,
+   "Type": "Source Layer",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Parkering_kistefos_LARK_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Hjelpelinje3D",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/Hjelpelinje3D__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Markers"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "847- Målsetting utendørs",
+   "Discipline": "INT",
+   "New/Existing": "N/A",
+   "Entities": 1,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Text/847-_Målsetting_utendørs__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_INT_Text"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Layer 1",
+   "Discipline": "OTHER",
+   "New/Existing": "N/A",
+   "Entities": 603,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/Layer_1__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_OTHER"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Discipline": "OTHER",
+   "New/Existing": "N/A",
+   "Entities": 26,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/0__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_OTHER"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Discipline": "OTHER",
+   "New/Existing": "N/A",
+   "Entities": 7,
+   "Type": "Source Layer",
+   "Source File": "landscape plan visitor centre",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/0__landscape_plan_visitor_centre.png",
+   "Description": "Part of KNM_OTHER"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "230831_Veg_TIN_red_PROSJEKT LOKALT_DWG",
+   "Discipline": "OTHER",
+   "New/Existing": "N/A",
+   "Entities": 2,
+   "Type": "Source Layer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/230831_Veg_TIN_red_PROSJEKT_LOKALT_DWG__240806_Nairy_Baghramian_1_1.png",
+   "Description": "Part of KNM_OTHER"
+  }
+ }
+]

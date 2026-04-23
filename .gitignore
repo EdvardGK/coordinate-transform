@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ODA conversion scratch — large (multi-GB) intermediate outputs
+tmp_dalux_dxf/
+tmp_dwg_all/
+tmp_dxf_all/
+tmp_oda/
+tmp_dxf/
+
+# Accidental exports
+--help.pdf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,452 @@
+[
+ {
+  "properties": {
+   "Layer name": "00- ARK 12 PLAN 1 (250408)",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 4604,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_ARK_12_PLAN_1_(250408)__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Takkant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 224,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Takkant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Mønelinje",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 108,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Mønelinje__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "721- Støttemurer og andre murer",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 99,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/721-_Støttemurer_og_andre_murer__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygningslinje",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 77,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygningslinje__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygning",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 55,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygning__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "72-- Utendørs konstruksjoner",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 50,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/72--_Utendørs_konstruksjoner__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "MurLoddrett",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 41,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/MurLoddrett__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veranda",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 36,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Veranda__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnenBygning",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 35,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/AnnenBygning__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Taksprang",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 33,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Taksprang__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TaksprangBunn",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 30,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TaksprangBunn__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FrittståendeTrappKant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 12,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FrittståendeTrappKant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FrittståendeTrapp",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 11,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FrittståendeTrapp__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bygningsdelelinje",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 7,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bygningsdelelinje__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Låvebru",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 6,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Låvebru__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TakoverbyggKant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 6,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TakoverbyggKant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TrappBygg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/TrappBygg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Takoverbygg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Takoverbygg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bruavgrensning",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bruavgrensning__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Bru",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Bru__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FundamentKant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/FundamentKant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Fundament",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Fundament__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Veranda",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Veranda__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Stein og fjell",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Stein_og_fjell__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Pipekant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Pipekant__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BautaStatueGrense",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/BautaStatueGrense__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "SkråForstøtningsmurAvgrensning",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/SkråForstøtningsmurAvgrensning__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BautaStatue",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/BautaStatue__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Pipe",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/Pipe__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "SkråForstøtningsmur",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/SkråForstøtningsmur__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00- Hotlink Bygg",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ea8f36d850ed897cfb\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_ARK_Buildings/00-_Hotlink_Bygg__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "FKB_Individual_Trees",
+   "Source File": "Nairy_FKB",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981eab8fad032c0d9e0ce\"]",
+   "Entities": 6170,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/FKB_Individual_Trees__Nairy_FKB.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "772- Eks tre",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981eab8fad032c0d9e0ce\"]",
+   "Entities": 1718,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/772-_Eks_tre__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "772- Eks tre",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981eab8fad032c0d9e0ce\"]",
+   "Entities": 932,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_Existing/772-_Eks_tre__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 722,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk FURU",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 280,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_FURU__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk BJØRK",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 240,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_BJØRK__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær so 12-14",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 200,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_so_12-14__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre medium",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 180,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre_medium__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "773- Nytt tre stort",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 176,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/773-_Nytt_tre_stort__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk OR",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 160,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_OR__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk HEGG",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 140,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_HEGG__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær pisk ROGN",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 60,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_ROGN__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "837- Planteplan trær transplantert",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981c08ae7e0bef7281646\"]",
+   "Entities": 5,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Trees_New/837-_Planteplan_trær_transplantert__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnetGjerde",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 138,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/AnnetGjerde__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "AnnetGjerde",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 26,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/AnnetGjerde__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "GangSykkelvegkant",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e26598121b754ce69d041c770\"]",
+   "Entities": 13,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_LARK_Paths_Existing/GangSykkelvegkant__240806_Nairy_Baghramian_1_1.png"
+  }
+ }
+]

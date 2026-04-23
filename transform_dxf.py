@@ -38,7 +38,7 @@ def to_ntm_world(utm_e, utm_n):
 
 
 def detect_coord_type(doc):
-    """Detect if coordinates are model-relative or world UTM32."""
+    """Detect coordinate type and unit (meters vs millimeters)."""
     msp = doc.modelspace()
     xs = []
     for e in msp:
@@ -57,45 +57,69 @@ def detect_coord_type(doc):
             break
 
     if not xs:
-        return "unknown"
+        return "unknown", 1.0
 
     avg_x = sum(xs) / len(xs)
-    if avg_x > 100000:  # World UTM32 coordinates (575xxx)
-        return "world_utm32"
-    else:  # Model-relative (0-1000 range)
-        return "model_relative"
+    if avg_x > 100_000_000:  # World UTM32 in mm (575200xxx)
+        return "world_utm32", 0.001
+    elif avg_x > 100_000:  # World UTM32 in meters (575xxx)
+        return "world_utm32", 1.0
+    else:  # Model-relative
+        return "model_relative", 1.0
 
 
-def transform_entity(e, transform_fn):
-    """Transform entity coordinates using the given function."""
+def transform_entity(e, transform_fn, scale=1.0):
+    """Transform entity coordinates using the given function.
+
+    Args:
+        scale: Unit scale factor for dimensions (radii, widths, heights).
+               E.g. 0.001 when input is mm and output is meters.
+    """
     t = e.dxftype()
     if t == "LINE":
         nx, ny = transform_fn(e.dxf.start.x, e.dxf.start.y)
-        e.dxf.start = (nx, ny, e.dxf.start.z)
+        e.dxf.start = (nx, ny, e.dxf.start.z * scale)
         nx, ny = transform_fn(e.dxf.end.x, e.dxf.end.y)
-        e.dxf.end = (nx, ny, e.dxf.end.z)
+        e.dxf.end = (nx, ny, e.dxf.end.z * scale)
     elif t == "LWPOLYLINE":
         pts = list(e.get_points(format="xyseb"))
         new_pts = []
         for x, y, s, ew, b in pts:
             nx, ny = transform_fn(x, y)
-            new_pts.append((nx, ny, s, ew, b))
+            new_pts.append((nx, ny, s * scale, ew * scale, b))
         e.set_points(new_pts, format="xyseb")
     elif t == "POLYLINE":
         for v in e.vertices:
             loc = v.dxf.location
             nx, ny = transform_fn(loc[0], loc[1])
-            v.dxf.location = (nx, ny, loc[2])
+            v.dxf.location = (nx, ny, loc[2] * scale)
     elif t == "CIRCLE":
         nx, ny = transform_fn(e.dxf.center.x, e.dxf.center.y)
-        e.dxf.center = (nx, ny, e.dxf.center.z)
+        e.dxf.center = (nx, ny, e.dxf.center.z * scale)
+        e.dxf.radius = e.dxf.radius * scale
+    elif t == "ARC":
+        nx, ny = transform_fn(e.dxf.center.x, e.dxf.center.y)
+        e.dxf.center = (nx, ny, e.dxf.center.z * scale)
+        e.dxf.radius = e.dxf.radius * scale
     elif t == "ELLIPSE":
         nx, ny = transform_fn(e.dxf.center.x, e.dxf.center.y)
-        e.dxf.center = (nx, ny, e.dxf.center.z)
-    elif t == "MTEXT":
+        e.dxf.center = (nx, ny, e.dxf.center.z * scale)
+        maj = e.dxf.major_axis
+        e.dxf.major_axis = (maj[0] * scale, maj[1] * scale, maj[2] * scale)
+    elif t in ("MTEXT", "TEXT"):
         ins = e.dxf.insert
         nx, ny = transform_fn(ins.x, ins.y)
-        e.dxf.insert = (nx, ny, ins.z)
+        e.dxf.insert = (nx, ny, ins.z * scale)
+        if hasattr(e.dxf, "char_height"):
+            e.dxf.char_height = e.dxf.char_height * scale
+        if hasattr(e.dxf, "height"):
+            e.dxf.height = e.dxf.height * scale
+    elif t == "INSERT":
+        nx, ny = transform_fn(e.dxf.insert.x, e.dxf.insert.y)
+        e.dxf.insert = (nx, ny, e.dxf.insert.z * scale)
+    elif t == "POINT":
+        nx, ny = transform_fn(e.dxf.location.x, e.dxf.location.y)
+        e.dxf.location = (nx, ny, e.dxf.location.z * scale)
     elif t == "HATCH":
         try:
             for path in e.paths:
@@ -112,6 +136,8 @@ def transform_entity(e, transform_fn):
                                 p = getattr(edge, attr)
                                 nx, ny = transform_fn(p[0], p[1])
                                 setattr(edge, attr, (nx, ny))
+                        if hasattr(edge, "radius"):
+                            edge.radius = edge.radius * scale
         except:
             pass
 
@@ -130,7 +156,8 @@ def add_markers(doc, msp, offset_e=0, offset_n=0):
     ]
 
     for layer_name, bx, by, color, label in markers:
-        doc.layers.add(layer_name, color=color)
+        if layer_name not in doc.layers:
+            doc.layers.add(layer_name, color=color)
         attribs = {"layer": layer_name, "color": color}
         msp.add_circle((bx, by, 0), radius=5.0, dxfattribs=attribs)
         msp.add_line((bx - 7, by, 0), (bx + 7, by, 0), dxfattribs=attribs)
@@ -139,17 +166,28 @@ def add_markers(doc, msp, offset_e=0, offset_n=0):
             **attribs, "insert": (bx + 6, by + 3, 0), "char_height": 2.0})
 
 
-def process_dxf(input_path):
-    """Transform DXF and output global + local versions."""
+def process_dxf(input_path, global_dir=None, local_dir=None):
+    """Transform DXF and output global + local versions.
+
+    Args:
+        input_path: Path to input DXF file.
+        global_dir: Optional output directory for global NTM file.
+        local_dir: Optional output directory for local NTM file.
+    """
     print(f"Reading: {input_path}")
     doc = ezdxf.readfile(input_path)
     msp = doc.modelspace()
 
-    coord_type = detect_coord_type(doc)
-    print(f"Coordinate type: {coord_type}")
+    coord_type, scale = detect_coord_type(doc)
+    print(f"Coordinate type: {coord_type}, scale: {scale}")
 
     if coord_type == "world_utm32":
-        transform_fn = to_ntm_world
+        if scale != 1.0:
+            print(f"Input appears to be in mm — scaling by {scale}")
+            def transform_fn(x, y):
+                return to_ntm_world(x * scale, y * scale)
+        else:
+            transform_fn = to_ntm_world
         print("Using world UTM32 -> NTM10 transform")
     else:
         transform_fn = to_ntm
@@ -158,7 +196,7 @@ def process_dxf(input_path):
     # Transform all entities
     count = 0
     for e in msp:
-        transform_entity(e, transform_fn)
+        transform_entity(e, transform_fn, scale=scale)
         count += 1
 
     # Fix headers
@@ -171,8 +209,13 @@ def process_dxf(input_path):
     add_markers(doc, msp, offset_e=0, offset_n=0)
 
     # Save global
-    base = os.path.splitext(input_path)[0]
-    global_path = f"{base}_NTM10_global_meters.dxf"
+    name = os.path.splitext(os.path.basename(input_path))[0]
+    if global_dir:
+        os.makedirs(global_dir, exist_ok=True)
+        global_path = os.path.join(global_dir, f"{name}_NTM10_global_meters.dxf")
+    else:
+        base = os.path.splitext(input_path)[0]
+        global_path = f"{base}_NTM10_global_meters.dxf"
     doc.saveas(global_path)
     print(f"Saved global: {global_path} ({count} entities)")
 
@@ -186,14 +229,26 @@ def process_dxf(input_path):
     for e in msp2:
         transform_entity(e, offset_fn)
 
-    local_path = f"{base}_NTM10_local_meters.dxf"
+    if local_dir:
+        os.makedirs(local_dir, exist_ok=True)
+        local_path = os.path.join(local_dir, f"{name}_NTM10_local_meters.dxf")
+    else:
+        base = os.path.splitext(input_path)[0]
+        local_path = f"{base}_NTM10_local_meters.dxf"
     doc2.saveas(local_path)
     print(f"Saved local: {local_path} (basepoint at origin)")
 
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python transform_dxf.py <input.dxf>")
+        print("Usage: python transform_dxf.py <input.dxf> [--global-dir DIR] [--local-dir DIR]")
         sys.exit(1)
 
-    process_dxf(sys.argv[1])
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("input", help="Input DXF file")
+    parser.add_argument("--global-dir", help="Output directory for global NTM file")
+    parser.add_argument("--local-dir", help="Output directory for local NTM file")
+    args = parser.parse_args()
+
+    process_dxf(args.input, global_dir=args.global_dir, local_dir=args.local_dir)

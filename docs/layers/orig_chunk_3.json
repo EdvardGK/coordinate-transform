@@ -1,0 +1,317 @@
+[
+ {
+  "properties": {
+   "Layer name": "Arealbrukgrense",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ed8377d91b4035a9ae\"]",
+   "Entities": 7,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/Arealbrukgrense__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Anleggsområde",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ed8377d91b4035a9ae\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/Anleggsområde__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TiltakGrense",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ed8377d91b4035a9ae\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/TiltakGrense__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "TiltakGrense",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981ed8377d91b4035a9ae\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_Muni_Borders/TiltakGrense__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "00_TRACET",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 55,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/00_TRACET__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "BeskrivendeHjelpelinjeAnlegg",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 16,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/BeskrivendeHjelpelinjeAnlegg__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "827- Snittlinjer",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 4,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/827-_Snittlinjer__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "230831_Veg_TIN",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__230831_Veg_TIN.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "230831_Veg_TIN",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__230831_Veg_TIN.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "230831_Veg_TIN",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__230831_Veg_TIN.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "KNM_Stier",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__KNM_Stier.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "Kotelinjer_20cm",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_20cm.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "Kotelinjer_20cm",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_20cm.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "Kotelinjer_20cm",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_20cm.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_MedPåskrift_2D.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_MedPåskrift_2D.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "Kotelinjer_MedPåskrift_2D",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_MedPåskrift_2D.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Sporing ytterkant",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/Sporing_ytterkant__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_OLD",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_OLD__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_NEW",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_NEW__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "COORDINATION_MARKER_ROTATION",
+   "Source File": "Parkering_kistefos_LARK 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 3,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Parkering_kistefos_LARK_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Hjelpelinje3D",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981b19622c41d04ec881d\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Markers/Hjelpelinje3D__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "847- Målsetting utendørs",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981668729c624e66ae453\"]",
+   "Entities": 1,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_INT_Text/847-_Målsetting_utendørs__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "Layer 1",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981599b2efecedcd3599d\"]",
+   "Entities": 603,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/Layer_1__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981599b2efecedcd3599d\"]",
+   "Entities": 26,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/0__240806_Nairy_Baghramian_1_1.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "0",
+   "Source File": "landscape plan visitor centre",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981599b2efecedcd3599d\"]",
+   "Entities": 7,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/0__landscape_plan_visitor_centre.png"
+  }
+ },
+ {
+  "properties": {
+   "Layer name": "230831_Veg_TIN_red_PROSJEKT LOKALT_DWG",
+   "Source File": "240806_Nairy Baghramian 1 1",
+   "Normalized Layer": "[\"https://www.notion.so/33e2fc6e265981599b2efecedcd3599d\"]",
+   "Entities": 2,
+   "Preview": "https://ed-skiplum.github.io/skiplum-reports/projects/kistefos/layers/KNM_OTHER/230831_Veg_TIN_red_PROSJEKT_LOKALT_DWG__240806_Nairy_Baghramian_1_1.png"
+  }
+ }
+]

@@ -1,0 +1,1301 @@
+[
+  {
+    "theme": "KNM_ARK_Buildings",
+    "aci": 1,
+    "desc": "Buildings, rooflines, walls, outdoor structures",
+    "entities": 5475,
+    "filename": "KNM_ARK_Buildings.png",
+    "sources": [
+      {
+        "name": "00- ARK 12 PLAN 1 (250408)",
+        "source_file": "landscape plan visitor centre",
+        "entities": 4604,
+        "filename": "KNM_ARK_Buildings/00-_ARK_12_PLAN_1_(250408)__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Takkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 224,
+        "filename": "KNM_ARK_Buildings/Takkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Mønelinje",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 108,
+        "filename": "KNM_ARK_Buildings/Mønelinje__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "721- Støttemurer og andre murer",
+        "source_file": "landscape plan visitor centre",
+        "entities": 99,
+        "filename": "KNM_ARK_Buildings/721-_Støttemurer_og_andre_murer__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Bygningslinje",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 77,
+        "filename": "KNM_ARK_Buildings/Bygningslinje__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Bygning",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 55,
+        "filename": "KNM_ARK_Buildings/Bygning__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "72-- Utendørs konstruksjoner",
+        "source_file": "landscape plan visitor centre",
+        "entities": 50,
+        "filename": "KNM_ARK_Buildings/72--_Utendørs_konstruksjoner__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "MurLoddrett",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 41,
+        "filename": "KNM_ARK_Buildings/MurLoddrett__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Veranda",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 36,
+        "filename": "KNM_ARK_Buildings/Veranda__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "AnnenBygning",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 35,
+        "filename": "KNM_ARK_Buildings/AnnenBygning__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Taksprang",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 33,
+        "filename": "KNM_ARK_Buildings/Taksprang__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "TaksprangBunn",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 30,
+        "filename": "KNM_ARK_Buildings/TaksprangBunn__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "FrittståendeTrappKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 12,
+        "filename": "KNM_ARK_Buildings/FrittståendeTrappKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "FrittståendeTrapp",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 11,
+        "filename": "KNM_ARK_Buildings/FrittståendeTrapp__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Bygningsdelelinje",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 7,
+        "filename": "KNM_ARK_Buildings/Bygningsdelelinje__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Låvebru",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 6,
+        "filename": "KNM_ARK_Buildings/Låvebru__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "TakoverbyggKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 6,
+        "filename": "KNM_ARK_Buildings/TakoverbyggKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "TrappBygg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 5,
+        "filename": "KNM_ARK_Buildings/TrappBygg__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Takoverbygg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 5,
+        "filename": "KNM_ARK_Buildings/Takoverbygg__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Bruavgrensning",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_ARK_Buildings/Bruavgrensning__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Bru",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_ARK_Buildings/Bru__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "FundamentKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_ARK_Buildings/FundamentKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Fundament",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_ARK_Buildings/Fundament__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Veranda",
+        "source_file": "KNM_Stier",
+        "entities": 3,
+        "filename": "KNM_ARK_Buildings/Veranda__KNM_Stier.png"
+      },
+      {
+        "name": "00- Stein og fjell",
+        "source_file": "landscape plan visitor centre",
+        "entities": 2,
+        "filename": "KNM_ARK_Buildings/00-_Stein_og_fjell__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "00- Hotlink Bygg",
+        "source_file": "landscape plan visitor centre",
+        "entities": 2,
+        "filename": "KNM_ARK_Buildings/00-_Hotlink_Bygg__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "00- Hotlink Bygg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/00-_Hotlink_Bygg__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Pipekant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/Pipekant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "BautaStatueGrense",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/BautaStatueGrense__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "SkråForstøtningsmurAvgrensning",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/SkråForstøtningsmurAvgrensning__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "BautaStatue",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/BautaStatue__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Pipe",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/Pipe__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "SkråForstøtningsmur",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/SkråForstøtningsmur__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "00- Hotlink Bygg",
+        "source_file": "KNM_Stier",
+        "entities": 1,
+        "filename": "KNM_ARK_Buildings/00-_Hotlink_Bygg__KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Trees_Existing",
+    "aci": 3,
+    "desc": "Trees: existing, surveyed, dead/dry",
+    "entities": 10364,
+    "filename": "KNM_LARK_Trees_Existing.png",
+    "sources": [
+      {
+        "name": "FKB_Individual_Trees",
+        "source_file": "Nairy_FKB",
+        "entities": 6170,
+        "filename": "KNM_LARK_Trees_Existing/FKB_Individual_Trees__Nairy_FKB.png"
+      },
+      {
+        "name": "772- Eks tre",
+        "source_file": "landscape plan visitor centre",
+        "entities": 1718,
+        "filename": "KNM_LARK_Trees_Existing/772-_Eks_tre__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "772- Eks tre",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 932,
+        "filename": "KNM_LARK_Trees_Existing/772-_Eks_tre__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Trees_New",
+    "aci": 84,
+    "desc": "Trees: new, planted, transplanted",
+    "entities": 2167,
+    "filename": "KNM_LARK_Trees_New.png",
+    "sources": [
+      {
+        "name": "773- Nytt tre",
+        "source_file": "landscape plan visitor centre",
+        "entities": 722,
+        "filename": "KNM_LARK_Trees_New/773-_Nytt_tre__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "837- Planteplan trær pisk FURU",
+        "source_file": "KNM_Stier",
+        "entities": 280,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_FURU__KNM_Stier.png"
+      },
+      {
+        "name": "837- Planteplan trær pisk BJØRK",
+        "source_file": "KNM_Stier",
+        "entities": 240,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_BJØRK__KNM_Stier.png"
+      },
+      {
+        "name": "837- Planteplan trær so 12-14",
+        "source_file": "KNM_Stier",
+        "entities": 200,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_so_12-14__KNM_Stier.png"
+      },
+      {
+        "name": "773- Nytt tre medium",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 180,
+        "filename": "KNM_LARK_Trees_New/773-_Nytt_tre_medium__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "773- Nytt tre stort",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 176,
+        "filename": "KNM_LARK_Trees_New/773-_Nytt_tre_stort__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "837- Planteplan trær pisk OR",
+        "source_file": "KNM_Stier",
+        "entities": 160,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_OR__KNM_Stier.png"
+      },
+      {
+        "name": "837- Planteplan trær pisk HEGG",
+        "source_file": "KNM_Stier",
+        "entities": 140,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_HEGG__KNM_Stier.png"
+      },
+      {
+        "name": "837- Planteplan trær pisk ROGN",
+        "source_file": "KNM_Stier",
+        "entities": 60,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_pisk_ROGN__KNM_Stier.png"
+      },
+      {
+        "name": "837- Planteplan trær transplantert",
+        "source_file": "KNM_Stier",
+        "entities": 5,
+        "filename": "KNM_LARK_Trees_New/837-_Planteplan_trær_transplantert__KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Paths_Existing",
+    "aci": 174,
+    "desc": "Paths: existing pedestrian/cycle, fences",
+    "entities": 188,
+    "filename": "KNM_LARK_Paths_Existing.png",
+    "sources": [
+      {
+        "name": "AnnetGjerde",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 138,
+        "filename": "KNM_LARK_Paths_Existing/AnnetGjerde__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "AnnetGjerde",
+        "source_file": "KNM_Stier",
+        "entities": 26,
+        "filename": "KNM_LARK_Paths_Existing/AnnetGjerde__KNM_Stier.png"
+      },
+      {
+        "name": "GangSykkelvegkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 13,
+        "filename": "KNM_LARK_Paths_Existing/GangSykkelvegkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "GangSykkelvegSenterlinje",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 5,
+        "filename": "KNM_LARK_Paths_Existing/GangSykkelvegSenterlinje__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Fortauskant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_LARK_Paths_Existing/Fortauskant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Gangvegkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_LARK_Paths_Existing/Gangvegkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "GangSykkelveg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_LARK_Paths_Existing/GangSykkelveg__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Paths_New",
+    "aci": 94,
+    "desc": "Paths: new/designed pedestrian, sidewalks",
+    "entities": 625,
+    "filename": "KNM_LARK_Paths_New.png",
+    "sources": [
+      {
+        "name": "00- besøkssenter",
+        "source_file": "KNM_Stier",
+        "entities": 528,
+        "filename": "KNM_LARK_Paths_New/00-_besøkssenter__KNM_Stier.png"
+      },
+      {
+        "name": "0",
+        "source_file": "KNM_Stier",
+        "entities": 80,
+        "filename": "KNM_LARK_Paths_New/0__KNM_Stier.png"
+      },
+      {
+        "name": "00- nye stier",
+        "source_file": "KNM_Stier",
+        "entities": 8,
+        "filename": "KNM_LARK_Paths_New/00-_nye_stier__KNM_Stier.png"
+      },
+      {
+        "name": "00 Stier",
+        "source_file": "KNM_Stier",
+        "entities": 2,
+        "filename": "KNM_LARK_Paths_New/00_Stier__KNM_Stier.png"
+      },
+      {
+        "name": "f-64000_fortau_FLATE_GANGSYKKELVEG",
+        "source_file": "KNM_Stier",
+        "entities": 1,
+        "filename": "KNM_LARK_Paths_New/f-64000_fortau_FLATE_GANGSYKKELVEG__KNM_Stier.png"
+      },
+      {
+        "name": "f-64000_fortau_FLATE_GANGSYKKELVEG",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 1,
+        "filename": "KNM_LARK_Paths_New/f-64000_fortau_FLATE_GANGSYKKELVEG__Parkering_kistefos_LARK_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Vegetation",
+    "aci": 92,
+    "desc": "Non-tree vegetation: lawn, grass, hedges, soil",
+    "entities": 204,
+    "filename": "KNM_LARK_Vegetation.png",
+    "sources": [
+      {
+        "name": "ArealressursGrense",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 86,
+        "filename": "KNM_LARK_Vegetation/ArealressursGrense__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "ArealressursFlate",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 80,
+        "filename": "KNM_LARK_Vegetation/ArealressursFlate__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Hekk",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 26,
+        "filename": "KNM_LARK_Vegetation/Hekk__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Lekeplass",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_LARK_Vegetation/Lekeplass__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "777 Skjøtsel",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_LARK_Vegetation/777_Skjøtsel__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "771- Plen_ gress_ eng",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_LARK_Vegetation/771-_Plen__gress__eng__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "00- ny jord",
+        "source_file": "KNM_Stier",
+        "entities": 2,
+        "filename": "KNM_LARK_Vegetation/00-_ny_jord__KNM_Stier.png"
+      },
+      {
+        "name": "00-forflytning jord",
+        "source_file": "KNM_Stier",
+        "entities": 1,
+        "filename": "KNM_LARK_Vegetation/00-forflytning_jord__KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Plazas",
+    "aci": 5,
+    "desc": "Plazas, forecourts, outdoor furniture and equipment",
+    "entities": 627,
+    "filename": "KNM_LARK_Plazas.png",
+    "sources": [
+      {
+        "name": "762- Forplass grafikk",
+        "source_file": "landscape plan visitor centre",
+        "entities": 427,
+        "filename": "KNM_LARK_Plazas/762-_Forplass_grafikk__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "790- Utstyr_ møbler_ lekeapparater",
+        "source_file": "landscape plan visitor centre",
+        "entities": 138,
+        "filename": "KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "762- Plasser",
+        "source_file": "landscape plan visitor centre",
+        "entities": 55,
+        "filename": "KNM_LARK_Plazas/762-_Plasser__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "790- Utstyr_ møbler_ lekeapparater",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "790- Utstyr_ møbler_ lekeapparater",
+        "source_file": "KNM_Stier",
+        "entities": 3,
+        "filename": "KNM_LARK_Plazas/790-_Utstyr__møbler__lekeapparater__KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_LARK_Parking_New",
+    "aci": 40,
+    "desc": "Parking: new/designed spaces and surfaces",
+    "entities": 6308,
+    "filename": "KNM_LARK_Parking_New.png",
+    "sources": [
+      {
+        "name": "0",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 3097,
+        "filename": "KNM_LARK_Parking_New/0__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "_p-plass_boks",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 3068,
+        "filename": "KNM_LARK_Parking_New/_p-plass_boks__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "_p-plass_dim",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 142,
+        "filename": "KNM_LARK_Parking_New/_p-plass_dim__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "00- fase 1 parkering",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_LARK_Parking_New/00-_fase_1_parkering__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_RIVeg_Roads_Existing",
+    "aci": 6,
+    "desc": "Roads: existing vehicular (surfaces, edges, ditches)",
+    "entities": 433,
+    "filename": "KNM_RIVeg_Roads_Existing.png",
+    "sources": [
+      {
+        "name": "AnnetVegarealAvgrensning",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 128,
+        "filename": "KNM_RIVeg_Roads_Existing/AnnetVegarealAvgrensning__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Vegdekkekant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 102,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegdekkekant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VegkantAvkjørsel",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 35,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantAvkjørsel__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Veg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 25,
+        "filename": "KNM_RIVeg_Roads_Existing/Veg__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VegkantFiktiv",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 24,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantFiktiv__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VeggrøftÅpen",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 18,
+        "filename": "KNM_RIVeg_Roads_Existing/VeggrøftÅpen__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Vegrekkverk",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 16,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegrekkverk__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VegkantAnnetVegareal",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 15,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantAnnetVegareal__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Vegdekkekant",
+        "source_file": "KNM_Stier",
+        "entities": 15,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegdekkekant__KNM_Stier.png"
+      },
+      {
+        "name": "VegkantFiktiv",
+        "source_file": "KNM_Stier",
+        "entities": 7,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantFiktiv__KNM_Stier.png"
+      },
+      {
+        "name": "Vegrekkverk",
+        "source_file": "KNM_Stier",
+        "entities": 7,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegrekkverk__KNM_Stier.png"
+      },
+      {
+        "name": "Kjørebane",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 6,
+        "filename": "KNM_RIVeg_Roads_Existing/Kjørebane__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VegkantAnnetVegareal",
+        "source_file": "KNM_Stier",
+        "entities": 5,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantAnnetVegareal__KNM_Stier.png"
+      },
+      {
+        "name": "Veg",
+        "source_file": "KNM_Stier",
+        "entities": 5,
+        "filename": "KNM_RIVeg_Roads_Existing/Veg__KNM_Stier.png"
+      },
+      {
+        "name": "Vegskulderkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegskulderkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Kjørebanekant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_RIVeg_Roads_Existing/Kjørebanekant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Spormidt",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_RIVeg_Roads_Existing/Spormidt__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Kjřrebane",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 4,
+        "filename": "KNM_RIVeg_Roads_Existing/Kjřrebane__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "Vegbom",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegbom__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "VeggrøftÅpen",
+        "source_file": "KNM_Stier",
+        "entities": 2,
+        "filename": "KNM_RIVeg_Roads_Existing/VeggrøftÅpen__KNM_Stier.png"
+      },
+      {
+        "name": "Vegrekkverk",
+        "source_file": "landscape plan visitor centre",
+        "entities": 2,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegrekkverk__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Vegbom",
+        "source_file": "KNM_Stier",
+        "entities": 1,
+        "filename": "KNM_RIVeg_Roads_Existing/Vegbom__KNM_Stier.png"
+      },
+      {
+        "name": "VegkantAvkjørsel",
+        "source_file": "KNM_Stier",
+        "entities": 1,
+        "filename": "KNM_RIVeg_Roads_Existing/VegkantAvkjørsel__KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_RIVeg_Roads_New",
+    "aci": 56,
+    "desc": "Roads: new/designed vehicular",
+    "entities": 161,
+    "filename": "KNM_RIVeg_Roads_New.png",
+    "sources": [
+      {
+        "name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+        "source_file": "landscape plan visitor centre",
+        "entities": 131,
+        "filename": "KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "f-veg_21000_FLATE_KJØREFELT_ASFALT",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 19,
+        "filename": "KNM_RIVeg_Roads_New/f-veg_21000_FLATE_KJØREFELT_ASFALT__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "f-veg_21000_FLATE_KJØREFELT_ASFALT",
+        "source_file": "KNM_Stier",
+        "entities": 7,
+        "filename": "KNM_RIVeg_Roads_New/f-veg_21000_FLATE_KJØREFELT_ASFALT__KNM_Stier.png"
+      },
+      {
+        "name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "761- Veier_ Kjøreveier_ sykkel- og gangveier mv_",
+        "source_file": "KNM_Stier",
+        "entities": 2,
+        "filename": "KNM_RIVeg_Roads_New/761-_Veier__Kjøreveier__sykkel-_og_gangveier_mv___KNM_Stier.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_RIVeg_Earthworks",
+    "aci": 4,
+    "desc": "Road engineering terrain (Veg_TIN)",
+    "entities": 7,
+    "filename": "KNM_RIVeg_Earthworks.png",
+    "sources": [
+      {
+        "name": "Diverse",
+        "source_file": "230831_Veg_TIN",
+        "entities": 7,
+        "filename": "KNM_RIVeg_Earthworks/Diverse__230831_Veg_TIN.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_RIVA_Water",
+    "aci": 34,
+    "desc": "VA pipes, fire fighting, culverts",
+    "entities": 23,
+    "filename": "KNM_RIVA_Water.png",
+    "sources": [
+      {
+        "name": "733- Utendørs brannsslokking",
+        "source_file": "landscape plan visitor centre",
+        "entities": 4,
+        "filename": "KNM_RIVA_Water/733-_Utendørs_brannsslokking__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Rørgate",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_RIVA_Water/Rørgate__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "731- Utendørs VA",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_RIVA_Water/731-_Utendørs_VA__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "KaiBryggeKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_RIVA_Water/KaiBryggeKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Stikkrenne",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_RIVA_Water/Stikkrenne__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "SvømmebassengKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_RIVA_Water/SvømmebassengKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Svømmebasseng",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_RIVA_Water/Svømmebasseng__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KaiBrygge",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_RIVA_Water/KaiBrygge__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Survey_Electric",
+    "aci": 200,
+    "desc": "Electrical survey (markers, masts)",
+    "entities": 150,
+    "filename": "KNM_Survey_Electric.png",
+    "sources": [
+      {
+        "name": "Innmålt elektro",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 125,
+        "filename": "KNM_Survey_Electric/Innmålt_elektro__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Masteomriss",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 12,
+        "filename": "KNM_Survey_Electric/Masteomriss__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Innmålt elektro",
+        "source_file": "landscape plan visitor centre",
+        "entities": 1,
+        "filename": "KNM_Survey_Electric/Innmålt_elektro__landscape_plan_visitor_centre.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Survey_Art",
+    "aci": 220,
+    "desc": "Art installation survey (Nairy Baghramian)",
+    "entities": 23,
+    "filename": "KNM_Survey_Art.png",
+    "sources": [
+      {
+        "name": "Innmålt kunstinstallasjoner",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 23,
+        "filename": "KNM_Survey_Art/Innmålt_kunstinstallasjoner__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Muni_Contours",
+    "aci": 2,
+    "desc": "Contour lines (existing + new, 10/20 cm, elevation text)",
+    "entities": 22469,
+    "filename": "KNM_Muni_Contours.png",
+    "sources": [
+      {
+        "name": "Diverse",
+        "source_file": "Kotelinjer_MedPåskrift_2D",
+        "entities": 8748,
+        "filename": "KNM_Muni_Contours/Diverse__Kotelinjer_MedPåskrift_2D.png"
+      },
+      {
+        "name": "710- Eks koter",
+        "source_file": "landscape plan visitor centre",
+        "entities": 8102,
+        "filename": "KNM_Muni_Contours/710-_Eks_koter__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Diverse",
+        "source_file": "Kotelinjer_20cm",
+        "entities": 1721,
+        "filename": "KNM_Muni_Contours/Diverse__Kotelinjer_20cm.png"
+      },
+      {
+        "name": "900- RiVei koter 10cm",
+        "source_file": "landscape plan visitor centre",
+        "entities": 121,
+        "filename": "KNM_Muni_Contours/900-_RiVei_koter_10cm__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "900- RiVei koter 20cm",
+        "source_file": "landscape plan visitor centre",
+        "entities": 64,
+        "filename": "KNM_Muni_Contours/900-_RiVei_koter_20cm__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "702- møte eks ny kote",
+        "source_file": "landscape plan visitor centre",
+        "entities": 62,
+        "filename": "KNM_Muni_Contours/702-_møte_eks_ny_kote__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "712- Ny kote 20cm",
+        "source_file": "landscape plan visitor centre",
+        "entities": 55,
+        "filename": "KNM_Muni_Contours/712-_Ny_kote_20cm__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "712- Ny kote 10cm",
+        "source_file": "landscape plan visitor centre",
+        "entities": 37,
+        "filename": "KNM_Muni_Contours/712-_Ny_kote_10cm__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Forsenkningskurve",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 34,
+        "filename": "KNM_Muni_Contours/Forsenkningskurve__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "717- Fallpil",
+        "source_file": "landscape plan visitor centre",
+        "entities": 32,
+        "filename": "KNM_Muni_Contours/717-_Fallpil__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "Forsenkningskurve_5m",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 7,
+        "filename": "KNM_Muni_Contours/Forsenkningskurve_5m__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "716- Ny punkthøyde",
+        "source_file": "landscape plan visitor centre",
+        "entities": 2,
+        "filename": "KNM_Muni_Contours/716-_Ny_punkthøyde__landscape_plan_visitor_centre.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Muni_Water",
+    "aci": 140,
+    "desc": "Natural water: rivers, lakes, dams, flood lines",
+    "entities": 122,
+    "filename": "KNM_Muni_Water.png",
+    "sources": [
+      {
+        "name": "ElvBekkKant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 50,
+        "filename": "KNM_Muni_Water/ElvBekkKant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "ElvBekk",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 26,
+        "filename": "KNM_Muni_Water/ElvBekk__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Flomløpkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 10,
+        "filename": "KNM_Muni_Water/Flomløpkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Damkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 10,
+        "filename": "KNM_Muni_Water/Damkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Fisketrapp",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 7,
+        "filename": "KNM_Muni_Water/Fisketrapp__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KanalGrøft",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 6,
+        "filename": "KNM_Muni_Water/KanalGrøft__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "ElvelinjeFiktiv",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 5,
+        "filename": "KNM_Muni_Water/ElvelinjeFiktiv__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Kanal",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_Muni_Water/Kanal__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Dam",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_Muni_Water/Dam__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "InnsjøElvSperre",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_Muni_Water/InnsjøElvSperre__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Innsjøkant",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_Muni_Water/Innsjøkant__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Innsjø",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_Muni_Water/Innsjø__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Muni_Heritage",
+    "aci": 54,
+    "desc": "Cultural heritage sites (fredning/preservation)",
+    "entities": 129,
+    "filename": "KNM_Muni_Heritage.png",
+    "sources": [
+      {
+        "name": "KulturminneEnkeltminneFlate",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 46,
+        "filename": "KNM_Muni_Heritage/KulturminneEnkeltminneFlate__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KulturminneEnkeltminneGrense",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 40,
+        "filename": "KNM_Muni_Heritage/KulturminneEnkeltminneGrense__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KulturminneLokalitetGr",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 19,
+        "filename": "KNM_Muni_Heritage/KulturminneLokalitetGr__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KulturminneLokalitet",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 17,
+        "filename": "KNM_Muni_Heritage/KulturminneLokalitet__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KulturminneSikringssone",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_Muni_Heritage/KulturminneSikringssone__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "KulturminneSikringssoneGr",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_Muni_Heritage/KulturminneSikringssoneGr__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_Muni_Borders",
+    "aci": 9,
+    "desc": "Regulatory/administrative borders, zoning, construction zones",
+    "entities": 81,
+    "filename": "KNM_Muni_Borders.png",
+    "sources": [
+      {
+        "name": "PblTiltak",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 61,
+        "filename": "KNM_Muni_Borders/PblTiltak__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "PLANKART januar",
+        "source_file": "KNM_Stier",
+        "entities": 8,
+        "filename": "KNM_Muni_Borders/PLANKART_januar__KNM_Stier.png"
+      },
+      {
+        "name": "Arealbrukgrense",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 7,
+        "filename": "KNM_Muni_Borders/Arealbrukgrense__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "Anleggsområde",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_Muni_Borders/Anleggsområde__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "TiltakGrense",
+        "source_file": "landscape plan visitor centre",
+        "entities": 2,
+        "filename": "KNM_Muni_Borders/TiltakGrense__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "TiltakGrense",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_Muni_Borders/TiltakGrense__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_INT_Markers",
+    "aci": 250,
+    "desc": "Coordination markers, defpoints, helpers",
+    "entities": 15,
+    "filename": "KNM_INT_Markers.png",
+    "sources": [
+      {
+        "name": "00_TRACET",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 55,
+        "filename": "KNM_INT_Markers/00_TRACET__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "BeskrivendeHjelpelinjeAnlegg",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 16,
+        "filename": "KNM_INT_Markers/BeskrivendeHjelpelinjeAnlegg__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "827- Snittlinjer",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 4,
+        "filename": "KNM_INT_Markers/827-_Snittlinjer__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "230831_Veg_TIN",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__230831_Veg_TIN.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "230831_Veg_TIN",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__230831_Veg_TIN.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "230831_Veg_TIN",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__230831_Veg_TIN.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "KNM_Stier",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__KNM_Stier.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "KNM_Stier",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__KNM_Stier.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "KNM_Stier",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__KNM_Stier.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "Kotelinjer_20cm",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_20cm.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "Kotelinjer_20cm",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_20cm.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "Kotelinjer_20cm",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_20cm.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "Kotelinjer_MedPåskrift_2D",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__Kotelinjer_MedPåskrift_2D.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "Kotelinjer_MedPåskrift_2D",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__Kotelinjer_MedPåskrift_2D.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "Kotelinjer_MedPåskrift_2D",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Kotelinjer_MedPåskrift_2D.png"
+      },
+      {
+        "name": "Sporing ytterkant",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/Sporing_ytterkant__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "landscape plan visitor centre",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_OLD",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_OLD__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_NEW",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_NEW__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "COORDINATION_MARKER_ROTATION",
+        "source_file": "Parkering_kistefos_LARK 1",
+        "entities": 3,
+        "filename": "KNM_INT_Markers/COORDINATION_MARKER_ROTATION__Parkering_kistefos_LARK_1.png"
+      },
+      {
+        "name": "Hjelpelinje3D",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_INT_Markers/Hjelpelinje3D__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_INT_Text",
+    "aci": 7,
+    "desc": "Text, dimensions, annotations",
+    "entities": 84,
+    "filename": "KNM_INT_Text.png",
+    "sources": [
+      {
+        "name": "847- Målsetting utendørs",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 1,
+        "filename": "KNM_INT_Text/847-_Målsetting_utendørs__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  },
+  {
+    "theme": "KNM_OTHER",
+    "aci": 8,
+    "desc": "Unmatched / miscellaneous",
+    "entities": 648,
+    "filename": "KNM_OTHER.png",
+    "sources": [
+      {
+        "name": "Layer 1",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 603,
+        "filename": "KNM_OTHER/Layer_1__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "0",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 26,
+        "filename": "KNM_OTHER/0__240806_Nairy_Baghramian_1_1.png"
+      },
+      {
+        "name": "0",
+        "source_file": "landscape plan visitor centre",
+        "entities": 7,
+        "filename": "KNM_OTHER/0__landscape_plan_visitor_centre.png"
+      },
+      {
+        "name": "230831_Veg_TIN_red_PROSJEKT LOKALT_DWG",
+        "source_file": "240806_Nairy Baghramian 1 1",
+        "entities": 2,
+        "filename": "KNM_OTHER/230831_Veg_TIN_red_PROSJEKT_LOKALT_DWG__240806_Nairy_Baghramian_1_1.png"
+      }
+    ]
+  }
+]
